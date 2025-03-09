@@ -33,7 +33,8 @@ Currently exploring the intersection of AI and real-world applications, from com
 ---
 
 ## 🌐 **Connect with Me**  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:adyaj1603@gmail.com)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adithyajk) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:adyaj1603@gmail.com)  
+
 
 
 ---
